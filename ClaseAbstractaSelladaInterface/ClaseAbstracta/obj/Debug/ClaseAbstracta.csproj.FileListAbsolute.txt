@@ -1,0 +1,16 @@
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.AssemblyReference.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.SuggestedBindingRedirects.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.CoreCompileInputs.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe.config
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.pdb
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.exe
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase9\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.pdb
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe.config
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.exe
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\bin\Debug\ClaseAbstracta.pdb
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.AssemblyReference.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.SuggestedBindingRedirects.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.csproj.CoreCompileInputs.cache
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.exe
+D:\Datos\Documentos\Terciario ISAD\Programación II\Material\Archivos de Clases Ejemplos\clase10\ClaseAbstractaSelladaInterface\ClaseAbstracta\obj\Debug\ClaseAbstracta.pdb
